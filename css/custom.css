@@ -1,0 +1,9 @@
+img.rounded {
+  border-radius: 50%;
+}
+
+:root {
+  --md-primary-fg-color:        #411e5a;
+  --md-primary-fg-color--light: #411e5a;
+  --md-primary-fg-color--dark:  #411e5a;
+}
