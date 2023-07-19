@@ -27,6 +27,9 @@ img.rounded {
 }
 
 .md-nav {
-    font-size: .75rem;
     line-height: 1.45;
+}
+
+.md-typeset {
+    font-size: .7rem;
 }
