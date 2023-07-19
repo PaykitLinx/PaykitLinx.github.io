@@ -4,6 +4,24 @@ img.rounded {
 
 :root {
   --md-primary-fg-color:        #411e5a;
-  --md-primary-fg-color--light: #411e5a;
-  --md-primary-fg-color--dark:  #411e5a;
+}
+
+[data-md-color-scheme=slate] {
+  --md-typeset-a-color:         #FFB200;
+}
+
+[data-md-color-scheme=default] {
+  --md-typeset-a-color:         #FFB200;
+}
+
+[data-md-color-accent=indigo] {
+  --md-accent-fg-color: #F0462D;
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+  height: 3.0rem;
+}
+
+.md-header__button.md-logo {
+  padding: 0.0rem;
 }
