@@ -25,3 +25,8 @@ img.rounded {
 .md-header__button.md-logo {
   padding: 0.0rem;
 }
+
+.md-nav {
+    font-size: .75rem;
+    line-height: 1.45;
+}
