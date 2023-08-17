@@ -33,3 +33,16 @@ img.rounded {
 .md-typeset {
     font-size: .7rem;
 }
+
+.md-typeset h1 {
+    display: none;
+}
+
+.md-typeset h2 {
+    margin-top: 0em;
+    color:   #F0462D
+}
+
+.md-grid {
+    max-width: 66.5rem;
+}
