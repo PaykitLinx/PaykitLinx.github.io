@@ -18,6 +18,10 @@ img.rounded {
   --md-accent-fg-color: #F0462D;
 }
 
+.attention {
+  color: red
+}
+
 .md-header__button.md-logo img, .md-header__button.md-logo svg {
   height: 3.0rem;
 }
