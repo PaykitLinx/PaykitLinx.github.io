@@ -50,3 +50,11 @@ img.rounded {
 .md-grid {
     max-width: 66.5rem;
 }
+
+.md-typeset table:not([class]) th {
+    min-width: 1rem;
+}
+
+.md-typeset table:not([class]) td {
+    padding: 0.9375em 1em;
+}
